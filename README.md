@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/kanon-banner.gif" alt="Kanon animated banner" width="100%" />
+  <img src="./assets/kanon-banner-cropped.webp" alt="Kanon animated banner" width="100%" />
 </p>
 
 <p align="center">
@@ -32,12 +32,6 @@ Skillset
           alt="Frontend technologies"
         />
       </p>
-      <p align="center">
-        HTML · CSS · Sass<br />
-        JavaScript · TypeScript · React<br />
-        Next.js · Vite · Vitest<br />
-        Electron · Tauri · Figma
-      </p>
     </td>
     <td width="33%" valign="top">
       <h3 align="center">Backend</h3>
@@ -52,11 +46,6 @@ Skillset
           alt="Backend technologies"
         />
       </p>
-      <p align="center">
-        C# · C++ · Python<br />
-        .NET · Node.js<br />
-        PostgreSQL · SQLite · MySQL
-      </p>
     </td>
     <td width="33%" valign="top">
       <h3 align="center">DevOps &amp; Tools</h3>
@@ -65,10 +54,6 @@ Skillset
           src="https://skillicons.dev/icons?i=git,github,docker,aws,linux"
           alt="Tools and additional technologies"
         />
-      </p>
-      <p align="center">
-        Git · GitHub · Docker<br />
-        Docker Compose · AWS · Linux
       </p>
     </td>
   </tr>
