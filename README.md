@@ -23,7 +23,17 @@
       <h3 align="center">Frontend</h3>
       <p align="center">
         <img
-          src="https://skillicons.dev/icons?i=html,css,sass,js,blank,blank,ts,react,nextjs,vite,vitest,electron,blank,tauri,figma&amp;perline=5"
+          src="https://skillicons.dev/icons?i=html,css,sass,js"
+          alt="Frontend technologies"
+        />
+        <br />
+        <img
+          src="https://skillicons.dev/icons?i=ts,react,nextjs,vite"
+          alt="Frontend technologies"
+        />
+        <br />
+        <img
+          src="https://skillicons.dev/icons?i=vitest,electron,tauri,figma"
           alt="Frontend technologies"
         />
       </p>
@@ -32,7 +42,12 @@
       <h3 align="center">Backend</h3>
       <p align="center">
         <img
-          src="https://skillicons.dev/icons?i=blank,cs,cpp,python,blank,blank,dotnet,nodejs,postgres,blank,blank,sqlite,blank,mysql,blank&amp;perline=5"
+          src="https://skillicons.dev/icons?i=cs,cpp,python,dotnet"
+          alt="Backend technologies"
+        />
+        <br />
+        <img
+          src="https://skillicons.dev/icons?i=nodejs,postgres,sqlite,mysql"
           alt="Backend technologies"
         />
       </p>
@@ -41,7 +56,12 @@
       <h3 align="center">DevOps &amp; Tools</h3>
       <p align="center">
         <img
-          src="https://skillicons.dev/icons?i=blank,blank,git,blank,blank,blank,github,docker,aws,blank,blank,blank,linux,blank,blank&amp;perline=5"
+          src="https://skillicons.dev/icons?i=git,github,docker"
+          alt="Tools and additional technologies"
+        />
+        <br />
+        <img
+          src="https://skillicons.dev/icons?i=aws,linux"
           alt="Tools and additional technologies"
         />
       </p>
