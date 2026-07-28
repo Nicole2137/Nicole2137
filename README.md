@@ -23,42 +23,52 @@ Skillset
       <h3 align="center">Frontend</h3>
       <p align="center">
         <img
-          src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,vitest"
+          src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react"
+          alt="Frontend technologies"
+        />
+        <br />
+        <img
+          src="https://skillicons.dev/icons?i=nextjs,vite,vitest,electron,tauri,figma"
           alt="Frontend technologies"
         />
       </p>
       <p align="center">
-        React · Next.js · JavaScript<br />
-        HTML · CSS<br />
-        React Testing Library · Vitest
+        HTML · CSS · Sass<br />
+        JavaScript · TypeScript · React<br />
+        Next.js · Vite · Vitest<br />
+        Electron · Tauri · Figma
       </p>
     </td>
     <td width="33%" valign="top">
       <h3 align="center">Backend</h3>
       <p align="center">
         <img
-          src="https://skillicons.dev/icons?i=cs,dotnet,postgres"
+          src="https://skillicons.dev/icons?i=cs,cpp,python,dotnet"
+          alt="Backend technologies"
+        />
+        <br />
+        <img
+          src="https://skillicons.dev/icons?i=nodejs,postgres,sqlite,mysql"
           alt="Backend technologies"
         />
       </p>
       <p align="center">
-        C# · ASP.NET Core<br />
-        Entity Framework Core<br />
-        PostgreSQL · xUnit
+        C# · C++ · Python<br />
+        .NET · Node.js<br />
+        PostgreSQL · SQLite · MySQL
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">Tools</h3>
+      <h3 align="center">DevOps &amp; Tools</h3>
       <p align="center">
         <img
-          src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,python,cpp"
+          src="https://skillicons.dev/icons?i=git,github,docker,aws,linux"
           alt="Tools and additional technologies"
         />
       </p>
       <p align="center">
         Git · GitHub · Docker<br />
-        Docker Compose · AWS · Linux<br />
-        Python · C++
+        Docker Compose · AWS · Linux
       </p>
     </td>
   </tr>
