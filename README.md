@@ -4,13 +4,15 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2600&pause=900&color=5F89BF&center=true&vCenter=true&width=760&lines=Full-Stack+Developer;React+%26+ASP.NET+Core;Building+thoughtful+web+experiences"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2600&pause=900&color=F4D6E5&center=true&vCenter=true&width=760&lines=Creativity;Passion;Curiosity;Ambition"
     alt="Typing introduction"
   />
 </p>
 
 <p align="center">
-  I build clean, scalable web applications with a strong focus on user experience, architecture and maintainable code.
+  I enjoy building creative, unconventional projects inspired by my interests.<br />
+  With each new project, I challenge myself to build more ambitious and complex systems,<br />
+  experimenting with different technologies and approaches as I work toward bringing my dream project to life.
 </p>
 
 <br />
@@ -32,7 +34,7 @@
       <h3 align="center">Backend</h3>
       <p align="center">
         <img
-          src="https://skillicons.dev/icons?i=cs,cpp,python,dotnet,nodejs,postgres,sqlite,mysql&amp;perline=4"
+          src="https://skillicons.dev/icons?i=cs,dotnet,cpp,python,nodejs,postgres,sqlite,mysql&amp;perline=4"
           alt="Backend technologies"
         />
       </p>
