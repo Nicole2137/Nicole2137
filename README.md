@@ -17,7 +17,7 @@
 
 <h2 align="center">Skillset</h2>
 
-<table width="100%">
+<table align="center" width="100%">
   <tr>
     <td width="33%" valign="top">
       <h3 align="center">Frontend</h3>
