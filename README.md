@@ -23,12 +23,7 @@ Skillset
       <h3 align="center">Frontend</h3>
       <p align="center">
         <img
-          src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react"
-          alt="Frontend technologies"
-        />
-        <br />
-        <img
-          src="https://skillicons.dev/icons?i=nextjs,vite,vitest,electron,tauri,figma"
+          src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,vite,vitest,electron,tauri,figma&amp;perline=4"
           alt="Frontend technologies"
         />
       </p>
@@ -37,12 +32,7 @@ Skillset
       <h3 align="center">Backend</h3>
       <p align="center">
         <img
-          src="https://skillicons.dev/icons?i=cs,cpp,python,dotnet"
-          alt="Backend technologies"
-        />
-        <br />
-        <img
-          src="https://skillicons.dev/icons?i=nodejs,postgres,sqlite,mysql"
+          src="https://skillicons.dev/icons?i=cs,cpp,python,dotnet,nodejs,postgres,sqlite,mysql,blank,blank,blank,blank&amp;perline=4"
           alt="Backend technologies"
         />
       </p>
@@ -51,7 +41,7 @@ Skillset
       <h3 align="center">DevOps &amp; Tools</h3>
       <p align="center">
         <img
-          src="https://skillicons.dev/icons?i=git,github,docker,aws,linux"
+          src="https://skillicons.dev/icons?i=git,github,docker,aws,blank,linux,blank,blank,blank,blank,blank,blank&amp;perline=4"
           alt="Tools and additional technologies"
         />
       </p>
