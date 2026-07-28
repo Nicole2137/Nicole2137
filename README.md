@@ -15,7 +15,7 @@
 
 <br />
 
-Skillset
+<h2 align="center">Skillset</h2>
 
 <table>
   <tr>
@@ -23,7 +23,7 @@ Skillset
       <h3 align="center">Frontend</h3>
       <p align="center">
         <img
-          src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,vite,vitest,electron,tauri,figma&amp;perline=4"
+          src="https://skillicons.dev/icons?i=html,css,sass,js,blank,blank,ts,react,nextjs,vite,vitest,electron,blank,tauri,figma&amp;perline=5"
           alt="Frontend technologies"
         />
       </p>
@@ -32,7 +32,7 @@ Skillset
       <h3 align="center">Backend</h3>
       <p align="center">
         <img
-          src="https://skillicons.dev/icons?i=cs,cpp,python,dotnet,nodejs,postgres,sqlite,mysql,blank,blank,blank,blank&amp;perline=4"
+          src="https://skillicons.dev/icons?i=blank,cs,cpp,python,blank,blank,dotnet,nodejs,postgres,blank,blank,sqlite,blank,mysql,blank&amp;perline=5"
           alt="Backend technologies"
         />
       </p>
@@ -41,7 +41,7 @@ Skillset
       <h3 align="center">DevOps &amp; Tools</h3>
       <p align="center">
         <img
-          src="https://skillicons.dev/icons?i=git,github,docker,aws,blank,linux,blank,blank,blank,blank,blank,blank&amp;perline=4"
+          src="https://skillicons.dev/icons?i=blank,blank,git,blank,blank,blank,github,docker,aws,blank,blank,blank,linux,blank,blank&amp;perline=5"
           alt="Tools and additional technologies"
         />
       </p>
@@ -51,7 +51,7 @@ Skillset
 
 <br />
 
-Featured Projects
+<h2 align="center">Featured Projects</h2>
 
 <table>
   <tr>
@@ -130,7 +130,7 @@ Featured Projects
 
 <br />
 
-Contributions
+<h2 align="center">Contributions</h2>
 
 <p align="center">
   <img
