@@ -20,45 +20,11 @@
 <h2 align="center">Certifications</h2>
 
 <p align="center">
-  <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/">
-    <img
-      src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"
-      alt="AWS Certified Cloud Practitioner"
-      width="140"
-    />
-  </a>
-  &nbsp;
-  <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/">
-    <img
-      src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"
-      alt="AWS Certified Solutions Architect – Associate"
-      width="140"
-    />
-  </a>
-  &nbsp;
-  <a href="https://aws.amazon.com/certification/certified-developer-associate/">
-    <img
-      src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png"
-      alt="AWS Certified Developer – Associate"
-      width="140"
-    />
-  </a>
-  &nbsp;
-  <a href="https://aws.amazon.com/certification/certified-cloudops-engineer-associate/">
-    <img
-      src="https://images.credly.com/images/88a6405e-0f26-442a-95ed-f9b9db4c857e/blob"
-      alt="AWS Certified CloudOps Engineer – Associate"
-      width="140"
-    />
-  </a>
-  &nbsp;
-  <a href="https://www.cambridgeenglish.org/exams-and-tests/advanced/">
-    <img
-      src="https://www.cambridgeenglish.org/Images/c1-advanced-logo.png"
-      alt="Cambridge English: C1 Advanced"
-      width="140"
-    />
-  </a>
+  <a href="https://aws.amazon.com/certification/certified-cloudops-engineer-associate/"><img src="https://images.credly.com/images/88a6405e-0f26-442a-95ed-f9b9db4c857e/blob" alt="AWS Certified CloudOps Engineer – Associate" width="140" /></a>
+  <a href="https://aws.amazon.com/certification/certified-developer-associate/"><img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" width="140" /></a>
+  <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/"><img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="140" /></a>
+  <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/"><img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="140" /></a>
+  <a href="https://www.cambridgeenglish.org/exams-and-tests/advanced/"><img src="./assets/cambridge-c1-advanced-badge.svg" alt="Cambridge English: C1 Advanced" width="140" /></a>
 </p>
 
 <br />
